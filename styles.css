@@ -1,0 +1,50 @@
+html { 
+    font-family: helvetica;
+    font-size: 14px;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+}
+.logo {
+    width: 50px;
+    align-self: center;
+    padding-right: 10px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    background: lightgreen;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+.price {
+    background: lightgreen;
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+}
+
+.listing img {
+    width: 250px;
+    margin: 20px; 
+}
+
+.thanks{
+     font-family: 'Anton', sans-serif;
+     display:none;
+}
+
+button {
+    border-radius: 5px;
+    padding: 10px;
+    width: 75px;
+}
+
+input {
+    height: 20px;
+    width: 200px;
+    border: 2px solid lightgrey;
+    padding: 5px;
+    border-radius: 5px;
+}
+
